@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "120808953836",
+    "firebase_url": "https://fundrinks-d6085.firebaseio.com",
+    "project_id": "fundrinks-d6085",
+    "storage_bucket": "fundrinks-d6085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120808953836:android:0e402fd66c98d579",
+        "android_client_info": {
+          "package_name": "utp.edu.pe.fundrinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120808953836-qbot98na12u323r2spshrd0c0c0cs7rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "utp.edu.pe.fundrinks",
+            "certificate_hash": "386732c5bc865b20108fde9fa464b5114dea1f31"
+          }
+        },
+        {
+          "client_id": "120808953836-prgk65au6b8mh7vcg8769j4tvbcn1aaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs3QJ4tm-paOTjO0Hmc-B6w9P_fj35VJk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120808953836-prgk65au6b8mh7vcg8769j4tvbcn1aaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
